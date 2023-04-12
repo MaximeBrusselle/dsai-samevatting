@@ -51,5 +51,4 @@ $$\sigma^2 = \frac{1}{n-1}\sum_{i=1}^n(x_i - \overline{x})^2$$
 - de som van het gekwadrateerde verschil met gemiddelde (per element) x het aantal elementen - 1
 
 ## Standaard afwijking
-^std
 - Wortel van variantie
