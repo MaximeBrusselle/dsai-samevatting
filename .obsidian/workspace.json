@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "348e920bd94d0204",
+        "id": "b0e214414b4b64c4",
         "type": "tabs",
         "children": [
           {
-            "id": "0206908080e48d09",
+            "id": "29b4bc8a47309137",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3/Theorie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "012203f8f8900b9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2/Commandos/Algemeen.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "197028087a4156f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2/Theorie.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e291d01637564b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3/Commandos/Algemeen.md",
+                "file": "4/Theorie.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "t-tes",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,6 +62,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "f70e1cd4f01465aa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -122,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2/Theorie.md",
+                "file": "4/Theorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2/Theorie.md",
+                "file": "4/Theorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2/Theorie.md"
+                "file": "4/Theorie.md"
               }
             }
           }
@@ -183,16 +154,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "197028087a4156f3",
+  "active": "29b4bc8a47309137",
   "lastOpenFiles": [
+    "4/Commandos/Algemeen.md",
+    "3/Commandos/Algemeen.md",
+    "4/Theorie.md",
+    "4/Commandos/Scipy.stats.md",
+    "3/Commandos/Scipy.stats.md",
+    "4/Commandos",
+    "3/Theorie.md",
+    "README.md",
+    "methodologie.md",
+    "Conclusie.md",
+    "literatuur.md",
+    "Libraries.md",
+    "1/Theorie.md",
     "2/Commandos/Algemeen.md",
     "2/Theorie.md",
-    "README.md",
-    "Libraries.md",
     "2/Commandos/Seaborn.md",
-    "3/Commandos/Scipy.stats.md",
-    "3/Commandos/Algemeen.md",
-    "3/Theorie.md",
     "3/Commandos/Numpy.md",
     "3/Commandos",
     "2/Commandos/Matplotlib.md",
@@ -203,7 +182,6 @@
     "1/Commandos/Algemeen.md",
     "2/Theorie^skew.md",
     "2/Theorie 1.md",
-    "1/Theorie.md",
     "2/Commandos",
     "Untitled.canvas",
     "1/Commandos.md",
@@ -213,7 +191,6 @@
     "6",
     "5",
     "4",
-    "3",
-    "2"
+    "3"
   ]
 }

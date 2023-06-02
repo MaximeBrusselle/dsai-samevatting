@@ -1,4 +1,7 @@
 {
   "livePreview": true,
-  "rightToLeft": false
+  "rightToLeft": false,
+  "spellcheckLanguages": [
+    "nl"
+  ]
 }
