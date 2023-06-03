@@ -3,5 +3,6 @@
   "rightToLeft": false,
   "spellcheckLanguages": [
     "nl"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }

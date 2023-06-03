@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29b4bc8a47309137",
+            "id": "aedf7b9e7ab271fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3980d243f61d654f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "5/Commandos/Algemeen.md",
+                "file": "6/Commandos/Algemeen.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5/Commandos/Algemeen.md",
+                "file": "6/Commandos/Algemeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "5/Commandos/Algemeen.md",
+                "file": "6/Commandos/Algemeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "5/Commandos/Algemeen.md"
+                "file": "6/Commandos/Algemeen.md"
               }
             }
           }
@@ -167,44 +154,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3980d243f61d654f",
+  "active": "aedf7b9e7ab271fa",
   "lastOpenFiles": [
+    "5/Commandos/Algemeen.md",
+    "6/Commandos/Algemeen.md",
+    "6/Theorie.md",
+    "2/Commandos/Numpy.md",
+    "3/Commandos/Algemeen.md",
+    "3/Commandos/Scipy.stats.md",
+    "2/Commandos/Algemeen.md",
+    "2/Theorie.md",
+    "2/Commandos/Matplotlib.md",
+    "6/img/interpretatie.png",
+    "3/Theorie.md",
+    "6/img",
+    "6/img/residual_example.png",
+    "6/Commandos/Untitled.md",
+    "6/Commandos",
+    "4/Commandos/Algemeen.md",
     "5/Theorie.md",
     "4/Theorie.md",
     "4/Commandos/Scipy.stats.md",
-    "5/Commandos/Algemeen.md",
     "5/Commandos",
-    "4/Commandos/Algemeen.md",
-    "3/Commandos/Algemeen.md",
-    "3/Commandos/Scipy.stats.md",
     "4/Commandos",
-    "3/Theorie.md",
     "README.md",
     "methodologie.md",
     "Conclusie.md",
     "literatuur.md",
     "Libraries.md",
     "1/Theorie.md",
-    "2/Commandos/Algemeen.md",
-    "2/Theorie.md",
     "2/Commandos/Seaborn.md",
     "3/Commandos/Numpy.md",
     "3/Commandos",
-    "2/Commandos/Matplotlib.md",
-    "2/Commandos/Numpy.md",
     "2/Theorie^Interquartile range.md",
     "1/Commandos/Seaborn.md",
-    "1/Commandos/Pandas.md",
-    "1/Commandos/Algemeen.md",
-    "2/Theorie^skew.md",
-    "2/Theorie 1.md",
     "2/Commandos",
     "Untitled.canvas",
     "1/Commandos",
     "Libraries",
     "7",
-    "6",
-    "5",
-    "4"
+    "6"
   ]
 }
