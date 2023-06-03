@@ -55,6 +55,7 @@ Largest Column: standard
 - $V = \sqrt{\frac{X^2}{n(k-1)}}$
 - n = aantal observaties
 - k = min(numRows, numCols)
+- Range: 0 (geen associatie) -- 1 (volledige associatie)
 
 ### Test procedure
 1) formuleer hypothese

@@ -19,3 +19,8 @@ chi2, p = stats.chisquare(f_obs=observed, f_exp=expected)
 print("X^2 = %.4f" % chi2)
 print("p = %.4f" % p)
 ```
+
+## Als em moeilijk doet bij gof
+```py
+chi2, p = stats.chisquare(f_obs=observed, f_exp=expected * np.mean(observed) / np.mean(expected))
+```
