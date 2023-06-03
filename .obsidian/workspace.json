@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4/Commandos/Algemeen.md",
+                "file": "5/Commandos/Algemeen.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4/Commandos/Algemeen.md",
+                "file": "5/Commandos/Algemeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4/Commandos/Algemeen.md",
+                "file": "5/Commandos/Algemeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4/Commandos/Algemeen.md"
+                "file": "5/Commandos/Algemeen.md"
               }
             }
           }
@@ -169,11 +169,14 @@
   },
   "active": "3980d243f61d654f",
   "lastOpenFiles": [
+    "5/Theorie.md",
     "4/Theorie.md",
     "4/Commandos/Scipy.stats.md",
+    "5/Commandos/Algemeen.md",
+    "5/Commandos",
+    "4/Commandos/Algemeen.md",
     "3/Commandos/Algemeen.md",
     "3/Commandos/Scipy.stats.md",
-    "4/Commandos/Algemeen.md",
     "4/Commandos",
     "3/Theorie.md",
     "README.md",
@@ -197,13 +200,11 @@
     "2/Theorie 1.md",
     "2/Commandos",
     "Untitled.canvas",
-    "1/Commandos.md",
     "1/Commandos",
     "Libraries",
     "7",
     "6",
     "5",
-    "4",
-    "3"
+    "4"
   ]
 }
