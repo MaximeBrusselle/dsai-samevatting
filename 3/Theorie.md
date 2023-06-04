@@ -94,3 +94,5 @@ $$z = \frac{x-\mu}{\sigma}$$
 - Sample groter dan 30 (tenzij normaal verdeeld dan sws)
 - normaal verdeeld
 - stdev is gekend
+### T
+de rest awa
