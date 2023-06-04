@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3/Theorie.md",
+                "file": "7/Commandos/Algemeen.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "confi",
+                "query": "signifi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3/Theorie.md",
+                "file": "7/Commandos/Algemeen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3/Theorie.md",
+                "file": "7/Commandos/Algemeen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3/Theorie.md"
+                "file": "7/Commandos/Algemeen.md"
               }
             }
           }
@@ -156,28 +156,28 @@
   },
   "active": "adbffc72140e8322",
   "lastOpenFiles": [
+    "7/Theorie.md",
+    "7/Commandos/Algemeen.md",
+    "6/Theorie.md",
+    "6/Commandos/Algemeen.md",
+    "5/Theorie.md",
     "4/Theorie.md",
     "3/Theorie.md",
-    "4/Commandos/Algemeen.md",
-    "5/Theorie.md",
-    "5/Commandos/Algemeen.md",
-    "4/Commandos/Scipy.stats.md",
-    "3/Commandos/Algemeen.md",
-    "7/Theorie.md",
-    "README.md",
-    "6/img/rick.png",
-    "6/img/testhaha.png",
+    "3/Commandos/Scipy.stats.md",
     "Symbolen.md",
     "2/Theorie.md",
-    "6/Theorie.md",
-    "1/Theorie.md",
-    "Untitled",
-    "3/Commandos/Scipy.stats.md",
-    "7/Commandos/Algemeen.md",
-    "7/Commandos",
-    "6/Commandos/Algemeen.md",
     "2/Commandos/Numpy.md",
     "2/Commandos/Algemeen.md",
+    "1/Theorie.md",
+    "3/Commandos/Algemeen.md",
+    "4/Commandos/Algemeen.md",
+    "README.md",
+    "5/Commandos/Algemeen.md",
+    "4/Commandos/Scipy.stats.md",
+    "6/img/rick.png",
+    "6/img/testhaha.png",
+    "Untitled",
+    "7/Commandos",
     "2/Commandos/Matplotlib.md",
     "6/img/interpretatie.png",
     "6/img",
