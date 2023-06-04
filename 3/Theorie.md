@@ -88,9 +88,9 @@ $$z = \frac{x-\mu}{\sigma}$$
 - Vals negatief
 - Accepteren van een onware null hypothese
 
-## t vs z-test
-- Populatie onder 30?
-	- Normaal verdeeld?
-		- z
-		- t
-- z
+## Wanneer welke test
+### Z
+- Random sample
+- Sample groter dan 30 (tenzij normaal verdeeld dan sws)
+- normaal verdeeld
+- stdev is gekend

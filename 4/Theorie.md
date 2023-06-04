@@ -70,6 +70,7 @@ Largest Column: standard
 - Bekijk Algemeen (in 1 stap lol)
 
 ## Goodness-of-fit test
+- sample representatief voor populatie?
 ### Procedure
 1) formuleer hypothese
 2) kies significance level (bv $a=0.05$)

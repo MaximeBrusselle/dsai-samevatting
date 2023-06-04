@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3/Theorie.md",
+                "file": "4/Theorie.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3/Theorie.md",
+                "file": "4/Theorie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3/Theorie.md",
+                "file": "4/Theorie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3/Theorie.md"
+                "file": "4/Theorie.md"
               }
             }
           }
@@ -156,24 +156,25 @@
   },
   "active": "adbffc72140e8322",
   "lastOpenFiles": [
-    "3/Commandos/Algemeen.md",
     "3/Theorie.md",
+    "4/Theorie.md",
+    "4/Commandos/Algemeen.md",
+    "5/Theorie.md",
+    "5/Commandos/Algemeen.md",
+    "4/Commandos/Scipy.stats.md",
+    "3/Commandos/Algemeen.md",
     "7/Theorie.md",
     "README.md",
     "6/img/rick.png",
     "6/img/testhaha.png",
     "Symbolen.md",
-    "4/Theorie.md",
     "2/Theorie.md",
     "6/Theorie.md",
-    "5/Theorie.md",
     "1/Theorie.md",
     "Untitled",
     "3/Commandos/Scipy.stats.md",
     "7/Commandos/Algemeen.md",
     "7/Commandos",
-    "4/Commandos/Algemeen.md",
-    "5/Commandos/Algemeen.md",
     "6/Commandos/Algemeen.md",
     "2/Commandos/Numpy.md",
     "2/Commandos/Algemeen.md",
@@ -183,7 +184,6 @@
     "6/img/residual_example.png",
     "6/Commandos/Untitled.md",
     "6/Commandos",
-    "4/Commandos/Scipy.stats.md",
     "5/Commandos",
     "4/Commandos",
     "methodologie.md",
