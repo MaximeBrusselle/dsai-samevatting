@@ -1,0 +1,13 @@
+- $\overline{x}$ = gemiddelde van x
+- $\mu$ = verwachte waarde
+- n = sample size
+- $\sigma$ = standaard afwijking
+- $\sigma^2$ = variantie
+- P(A) = kans op gebeurtenis A
+- z = z-score
+- s = standaard afwijking van de steekproef(`s = np.std(data, ddof=1)`)
+- r = residual
+- o = observed value
+- $X^2$ = shi-squared
+- $\beta$ = gwn een waarde
+- ŷ = y is ongeveer

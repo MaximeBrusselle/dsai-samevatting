@@ -11,8 +11,8 @@ print("p-value            : %.4f" % p)
 
 ## Goodness-of-fit
 ```py
-observed = np.array([127,75,98,27,73])
-expected_p = np.array([.35,.17,.23,.08,.17])
+observed = np.array([...])
+expected_p = np.array([...])
 alpha = 0.05
 n = 624 #(sample size)
 k = len(observed) #number of categories

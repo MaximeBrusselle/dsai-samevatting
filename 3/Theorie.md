@@ -87,3 +87,10 @@ $$z = \frac{x-\mu}{\sigma}$$
 ### Type 2
 - Vals negatief
 - Accepteren van een onware null hypothese
+
+## t vs z-test
+- Populatie onder 30?
+	- Normaal verdeeld?
+		- z
+		- t
+- z

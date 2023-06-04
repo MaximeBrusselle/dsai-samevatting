@@ -1,4 +1,6 @@
 [
   "obsidian-git",
-  "multi-column-markdown"
+  "multi-column-markdown",
+  "obsidian-emoji-toolbar",
+  "convert-url-to-iframe"
 ]
