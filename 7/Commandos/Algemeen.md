@@ -109,11 +109,13 @@ print(f"MAE: {mean_absolute_error(test, predicted)}")
 
 ## Mean squared error (MSE)
 ```py
+from sklearn.metrics import mean_squared_error
 print('MSE: ', mean_squared_error(test, predicted))
 ```
 
 
 ## Root mean squared error (RMSE)
 ```py
+from sklearn.metrics import mean_squared_error
 print('RMSE: ', np.sqrt(mean_squared_error(test, predicted)))
 ```
